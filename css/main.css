@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+h2 {
+    color: pink
+}
+
+.btn {
+    background-color: rgb(105, 108, 161);
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+}
+.btn-secondary {
+    background-color: rgb(255, 209, 58);
+}
+#first {
+    border-top: 1px solid #333;
+}
+section h2{
+    text-decoration: underline;
+}
+.img-wrapper {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
